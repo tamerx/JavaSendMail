@@ -1,4 +1,0 @@
-# -SendMailSimpleApp
-# deneme
-# deneme
-# deneme
