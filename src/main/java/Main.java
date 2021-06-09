@@ -21,6 +21,7 @@ public class Main {
 
             inputStream.close();
 
+
             System.out.println("Email sent");
 
         } catch (Exception e) {
